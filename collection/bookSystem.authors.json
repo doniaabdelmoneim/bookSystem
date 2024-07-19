@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "66986a29f51b6aa0f96ab378"
+  },
+  "name": "donia",
+  "bio": "art",
+  "birthDate": {
+    "$date": "2000-09-01T00:00:00.000Z"
+  },
+  "books": {
+    "$oid": "6698671d193d54c903c1be0b"
+  },
+  "createdAt": {
+    "$date": "2024-07-18T01:04:41.391Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T01:04:41.391Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66986a62f51b6aa0f96ab37b"
+  },
+  "name": "omar",
+  "bio": "art",
+  "birthDate": {
+    "$date": "1980-09-01T00:00:00.000Z"
+  },
+  "books": {
+    "$oid": "669866e7193d54c903c1be07"
+  },
+  "createdAt": {
+    "$date": "2024-07-18T01:05:38.715Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T01:05:38.715Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66986a8af51b6aa0f96ab37e"
+  },
+  "name": "mai",
+  "bio": "art",
+  "birthDate": {
+    "$date": "1980-09-01T00:00:00.000Z"
+  },
+  "books": {
+    "$oid": "669866da193d54c903c1be05"
+  },
+  "createdAt": {
+    "$date": "2024-07-18T01:06:18.016Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T01:06:18.016Z"
+  },
+  "__v": 0
+}]
